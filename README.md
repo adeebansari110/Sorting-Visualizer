@@ -15,14 +15,6 @@ A web-based tool to visualize and understand how different sorting algorithms wo
 
 ---
 
-## 📸 Demo
-
-![Demo Screenshot](demo-screenshot.png)
-
-> _Add a screenshot of the app here after running it!_
-
----
-
 ## 🧮 Supported Algorithms
 
 - **Bubble Sort**
